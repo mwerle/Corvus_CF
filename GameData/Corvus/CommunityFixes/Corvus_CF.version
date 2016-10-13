@@ -1,0 +1,31 @@
+{
+    "CHANGE_LOG_URL": "https://raw.githubusercontent.com/mwerle/Corvus_CF/master/CHANGELOG.md",
+    "DOWNLOAD": "https://github.com/mwerle/Corvus_CF/releases",
+    "GITHUB": {
+        "REPOSITORY": "Corvus_CF",
+        "USERNAME": "mwerle"
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 99
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    },
+    "NAME": "Kerbal Inventory System",
+    "URL": "https://raw.githubusercontent.com/mwerle/Corvus_CF/master/Corvus_CF.version",
+    "VERSION": {
+        "BUILD": 0,
+        "MAJOR": 0,
+        "MINOR": 1,
+        "PATCH": 0
+    }
+}
