@@ -7,13 +7,17 @@ The Corvus pod was created by **OrionKermin**, and is a 2-Kerbal command pod wit
 ## License
 This mod is licensed under the [CC BY-SA 4.0][1] license; effectively it means it's free to use and modify.
 
+## Requirements
+This mod requires the [ModuleManager][2] mod.
+
 ## Installation
 Install the Corvus mod, then extract this mod in the standard way into the KSP "GameData" folder. It will install itself into the Corvus folder.
 
 ## Resources
-* Official Corvus [Forum Thread][2] - information and download links
-* Official Corvus [Curse download link][3]
+* Official Corvus [Forum Thread][10] - information and download links
+* Official Corvus [Curse download link][11]
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-[2]: http://forum.kerbalspaceprogram.com/index.php?/topic/108993-102corvus-size-1-two-kerbal-command-podversion-111/
-[2]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest
+[2]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-12-module-manager-271-october-8th-better-late-than-never/#comment-720814
+[10]: http://forum.kerbalspaceprogram.com/index.php?/topic/108993-102corvus-size-1-two-kerbal-command-podversion-111/
+[11]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest
