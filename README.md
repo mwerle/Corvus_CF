@@ -1,23 +1,27 @@
-# Corvus Community Fixes
+# Corvus - Community Fixes
 
-This minimalistic "mod" consists of a set of ModuleManager patches for the Corvus command pod mod for Kerbal Space Program (KSP).
+This mod now consists of the Corvus command pod mod for Kerbal Space Program (KSP) with the Community Fixes integrated.
 
-The Corvus pod was created by **OrionKermin**, and is a 2-Kerbal command pod with some associated utility components. Unfortunately it is released "All Rights Reserved" which means it can't be forked or distributed, and the author is currently unavailable. The latest release of the Corvus mod was v1.1.1, and is currently still available for download.
+The Corvus pod was originally created by **OrionKermin**, and is a 2-Kerbal command pod with some associated utility components. As of 2017-04-25 the original mod was re-released under the CC-BY-SA license.
 
 ## License
 This mod is licensed under the [CC BY-SA 4.0][1] license; effectively it means it's free to use and modify.
 
-## Requirements
-This mod requires the [ModuleManager][2] mod.
+## Inclusions
+This mod includes parts of the [HGR][2] mod, also by **OrionKermin**, for the IVA.
+
+## Recommends
+This mod recommends the [ModuleManager][3] mod which enables additional functionality and patches.
 
 ## Installation
-Install the Corvus mod, then extract this mod in the standard way into the KSP "GameData" folder. It will install itself into the Corvus folder.
+Extract the contents of this mod in the standard way into the KSP "GameData" folder.
 
 ## Resources
 * Official Corvus [Forum Thread][10] - information and download links
 * Official Corvus [Curse download link][11]
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-[2]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-12-module-manager-271-october-8th-better-late-than-never/#comment-720814
-[10]: http://forum.kerbalspaceprogram.com/index.php?/topic/108993-102corvus-size-1-two-kerbal-command-podversion-111/
+[2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
+[3]: http://forum.kerbalspaceprogram.com/index.php?showtopic=50533
+[10]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
 [11]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest

@@ -12,7 +12,7 @@
     },
     "KSP_VERSION_MAX": {
         "MAJOR": 1,
-        "MINOR": 2,
+        "MINOR": 3,
         "PATCH": 99
     },
     "KSP_VERSION_MIN": {
@@ -23,9 +23,9 @@
     "NAME": "Kerbal Inventory System",
     "URL": "https://raw.githubusercontent.com/mwerle/Corvus_CF/master/Corvus_CF.version",
     "VERSION": {
-        "BUILD": 0,
-        "MAJOR": 0,
-        "MINOR": 1,
+        "MAJOR": 1,
+        "MINOR": 2,
         "PATCH": 0
+        "BUILD": 0,
     }
 }
