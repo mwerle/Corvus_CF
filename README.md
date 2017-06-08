@@ -17,11 +17,13 @@ This mod recommends the [ModuleManager][3] mod which enables additional function
 Extract the contents of this mod in the standard way into the KSP "GameData" folder.
 
 ## Resources
-* Official Corvus [Forum Thread][10] - information and download links
-* Official Corvus [Curse download link][11]
+* Current [SpaceDock][10] download link
+* Original Corvus [Forum Thread][11] by **OrionKermin** - information and download links
+* Original Corvus [Curse download link][12] by **OrionKermin**
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
 [3]: http://forum.kerbalspaceprogram.com/index.php?showtopic=50533
-[10]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
-[11]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest
+[10]: https://spacedock.info/mod/1405/Corvus%20CF
+[11]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
+[12]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest
