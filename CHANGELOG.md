@@ -1,5 +1,9 @@
 # Corvus Community Fixes - Changelog
 
+* v1.3.0
+  * Fix version file for CKAN ::oops::!
+  * Add localisation support (breaks compatibility with KSP1.2)
+
 * v1.2.0
   * Integrate Corvus v1.1.1 mod due to changed licensing of the original mod
 
