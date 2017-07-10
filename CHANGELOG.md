@@ -1,5 +1,14 @@
 # Corvus Community Fixes - Changelog
 
+* v1.3.1
+  * Integrate the "Corvus Extras" parts.
+  * Integrate (most of) Deimos Rast's tweaks and fixes.
+  * A few more bits and pieces localised using the KSP default localisation strings.
+  * Minor directory cleanup
+
+  * KNOWN ISSUES:
+    + The Corvus Extras 1.875m Adapter part generates an error during load (IScalarModule), but otherwise appears to function.
+
 * v1.3.0
   * Fix version file for CKAN ::oops::!
   * Add localisation support (breaks compatibility with KSP1.2)

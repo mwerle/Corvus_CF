@@ -1,6 +1,6 @@
 # Corvus - Community Fixes
 
-This mod now consists of the Corvus command pod mod for Kerbal Space Program (KSP) with the Community Fixes integrated.
+This mod consists of the Corvus Command Pod mod for Kerbal Space Program (KSP) with the Community Fixes and Corvus Extras parts integrated.
 
 The Corvus pod was originally created by **OrionKermin**, and is a 2-Kerbal command pod with some associated utility components. As of 2017-04-25 the original mod was re-released under the CC-BY-SA license.
 
