@@ -1,5 +1,9 @@
 # Corvus Community Fixes - Changelog
 
+* v1.3.2
+  * Nerf the Corvus Supply Pod RCS fuel cell - 1 unit of RCS now generates 100 units of electricity instead of 1000.
+  * Update version to reflect compatibility with KSP 1.4.1
+
 * v1.3.1
   * Integrate the "Corvus Extras" parts.
   * Integrate (most of) Deimos Rast's tweaks and fixes.

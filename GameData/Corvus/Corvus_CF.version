@@ -7,12 +7,12 @@
     },
     "KSP_VERSION": {
         "MAJOR": 1,
-        "MINOR": 3,
+        "MINOR": 4,
         "PATCH": 0
     },
     "KSP_VERSION_MAX": {
         "MAJOR": 1,
-        "MINOR": 3,
+        "MINOR": 4,
         "PATCH": 99
     },
     "KSP_VERSION_MIN": {
@@ -25,7 +25,7 @@
     "VERSION": {
         "MAJOR": 1,
         "MINOR": 3,
-        "PATCH": 1,
-        "BUILD": 2017071001
+        "PATCH": 2,
+        "BUILD": 2018031401
     }
 }
