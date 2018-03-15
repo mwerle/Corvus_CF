@@ -28,7 +28,7 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
 [3]: http://forum.kerbalspaceprogram.com/index.php?showtopic=50533
-[4]: https://forum.kerbalspaceprogram.com/index.php?showtopic=120305
+[4]: https://forum.kerbalspaceprogram.com/index.php?showtopic=170880
 [5]: https://forum.kerbalspaceprogram.com/index.php?showtopic=131556
 [9]: http://forum.kerbalspaceprogram.com/index.php?showtopic=163101
 [10]: https://spacedock.info/mod/1405/Corvus%20CF
