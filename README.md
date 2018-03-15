@@ -8,10 +8,13 @@ The Corvus pod was originally created by **OrionKermin**, and is a 2-Kerbal comm
 This mod is licensed under the [CC BY-SA 4.0][1] license; effectively it means it's free to use and modify.
 
 ## Inclusions
-This mod includes parts of the [HGR][2] mod, also by **OrionKermin**, for the IVA.
+This mod includes the Props of the [HGR][2] mod, also by **OrionKermin**, for the IVA.
 
 ## Recommends
-This mod recommends the [ModuleManager][3] mod which enables additional functionality and patches.
+This mod recommends the following mods:
+* [ModuleManager][3] - this enables some additional functionality and patches.
+* [Animated Decouplers][4] - this enables aerodynamic shielding for the Corvus Adapter in Stock Aero.
+* [Home Grown Rockets - Community Fixes][5] - adds many additional parts for the 1.875 (aka Size 1.5) stack.
 
 ## Installation
 Extract the contents of this mod in the standard way into the KSP "GameData" folder.
@@ -25,6 +28,8 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
 [3]: http://forum.kerbalspaceprogram.com/index.php?showtopic=50533
+[4]: https://forum.kerbalspaceprogram.com/index.php?showtopic=120305
+[5]: https://forum.kerbalspaceprogram.com/index.php?showtopic=131556
 [9]: http://forum.kerbalspaceprogram.com/index.php?showtopic=163101
 [10]: https://spacedock.info/mod/1405/Corvus%20CF
 [11]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
