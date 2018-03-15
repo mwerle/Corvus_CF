@@ -2,6 +2,12 @@
 
 * v1.3.2
   * Nerf the Corvus Supply Pod RCS fuel cell - 1 unit of RCS now generates 100 units of electricity instead of 1000.
+  * Nerf the Corvus Nosecone RCS capacity - reduced from 30 to 15 units.
+  * Minor tweaks to the Corvus Adapter - adjust drag and breaking force.
+  * Fix the warning message emitted by the Corvus Adapter
+    + The Adapter will NOT shield its contents in Stock Aero unless the Animated Decouplers mod is installed
+	+ Alternatively, install NEAR or FAR.
+	+ Or mount only physics-less parts into it.
   * Update version to reflect compatibility with KSP 1.4.1
 
 * v1.3.1
