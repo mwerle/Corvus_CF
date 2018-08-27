@@ -1,5 +1,8 @@
 # Corvus Community Fixes - Changelog
 
+* v1.3.3
+  * Fix and tweak ModuleManager patch for DeadlyReentry.
+
 * v1.3.2
   * Nerf the Corvus Supply Pod RCS fuel cell - 1 unit of RCS now generates 100 units of electricity instead of 1000.
   * Nerf the Corvus Nosecone RCS capacity - reduced from 30 to 15 units.
