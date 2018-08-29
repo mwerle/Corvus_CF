@@ -1,5 +1,10 @@
 # Corvus Community Fixes - Changelog
 
+*v1.3.4
+  * Revert a bug introduced in the last version for DeadlyReentry.
+  * Add Snacks! storage to the Corvus Supply Module.
+  * Add crossfeed toggling to the Corvus Heatshield.
+
 * v1.3.3
   * Fix and tweak ModuleManager patch for DeadlyReentry.
 
