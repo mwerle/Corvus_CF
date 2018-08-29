@@ -22,8 +22,8 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 ## Resources
 * [Forum Thread][9] - information and download links
 * Current [SpaceDock][10] download link
+* Current [Curse][12] download link
 * Original Corvus [Forum Thread][11] by **OrionKermin** - information and download links
-* Original Corvus [Curse download link][12] by **OrionKermin**
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
@@ -33,4 +33,4 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 [9]: http://forum.kerbalspaceprogram.com/index.php?showtopic=163101
 [10]: https://spacedock.info/mod/1405/Corvus%20CF
 [11]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
-[12]: http://kerbal.curseforge.com/ksp-mods/230467-corvus-a-small-two-kerbal-pod/files/latest
+[12]: https://kerbal.curseforge.com/projects/corvus-cf/files/latest
