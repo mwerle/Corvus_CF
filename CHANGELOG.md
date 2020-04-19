@@ -1,5 +1,8 @@
 # Corvus Community Fixes - Changelog
 
+* v{VERSION}
+  * Fix excessive drag on Corvus Nosecone when RealChute mod is installed.
+
 * v1.3.4
   * Revert a bug introduced in the last version for DeadlyReentry.
   * Add Snacks! storage to the Corvus Supply Module.
@@ -14,8 +17,8 @@
   * Minor tweaks to the Corvus Adapter - adjust drag and breaking force.
   * Fix the warning message emitted by the Corvus Adapter
     + The Adapter will NOT shield its contents in Stock Aero unless the Animated Decouplers mod is installed
-	+ Alternatively, install NEAR or FAR.
-	+ Or mount only physics-less parts into it.
+    + Alternatively, install NEAR or FAR.
+    + Or mount only physics-less parts into it.
   * Update version to reflect compatibility with KSP 1.4.1
 
 * v1.3.1
