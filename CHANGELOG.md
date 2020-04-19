@@ -2,6 +2,8 @@
 
 * v{VERSION}
   * Fix excessive drag on Corvus Nosecone when RealChute mod is installed.
+  * Add german translation.
+  * Add spanish translation - thanks to *Fitiales*.
 
 * v1.3.4
   * Revert a bug introduced in the last version for DeadlyReentry.
