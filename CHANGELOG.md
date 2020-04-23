@@ -1,6 +1,9 @@
 # Corvus Community Fixes - Changelog
 
 * v{VERSION}
+  * <TODO>
+
+* v1.3.5
   * Fix excessive drag on Corvus Nosecone when RealChute mod is installed.
   * Add german translation.
   * Add spanish translation - thanks to *Fitiales*.
