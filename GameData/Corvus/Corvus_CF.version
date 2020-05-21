@@ -21,7 +21,7 @@
         "PATCH": 0
     },
     "NAME": "Corvus CF",
-    "URL": "https://raw.githubusercontent.com/mwerle/Corvus_CF/master/Corvus_CF.version",
+    "URL": "https://github.com/mwerle/Corvus_CF/raw/master/GameData/Corvus/Corvus_CF.version",
     "VERSION": {
         "MAJOR": 1,
         "MINOR": 3,
