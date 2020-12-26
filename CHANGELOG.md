@@ -2,6 +2,7 @@
 
 * v{VERSION}
   * <TODO>
+  * Add Inventory and Cargo configurations to parts for KSP1.11.
 
 * v1.3.5
   * Fix excessive drag on Corvus Nosecone when RealChute mod is installed.
