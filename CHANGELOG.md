@@ -2,6 +2,8 @@
 
 * v{VERSION}
   * <TODO>
+
+* v1.3.6 2020-12-27
   * Add Inventory and Cargo configurations to parts for KSP1.11.
 
 * v1.3.5
