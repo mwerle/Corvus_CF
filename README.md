@@ -2,11 +2,6 @@
 
 [![ReleaseShield]][release] [![CKANShield]][CKAN] [![SourceShield]][GitHub] [![LicenseShield]][License]
 
-[ReleaseShield]: https://img.shields.io/github/v/release/mwerle/Corvus_CF?include_prereleases
-[CKANShield]: https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
-[SourceShield]: https://img.shields.io/badge/source%20code-github-yellowgreen
-[LicenseShield]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey
-
 ***
 
 This mod consists of the Corvus Command Pod mod for Kerbal Space Program (KSP) with the Community Fixes and Corvus Extras parts integrated.
@@ -14,7 +9,7 @@ This mod consists of the Corvus Command Pod mod for Kerbal Space Program (KSP) w
 The Corvus pod was originally created by **OrionKermin**, and is a 2-Kerbal command pod with some associated utility components. As of 2017-04-25 the original mod was re-released under the CC-BY-SA license.
 
 ## License
-This mod is licensed under the [CC BY-SA 4.0][1] license; effectively it means it's free to use and modify.
+This mod is licensed under the [CC BY-SA 4.0][License] license; effectively it means it's free to use and modify.
 
 ## Inclusions
 This mod includes the Props of the [HGR][2] mod, also by **OrionKermin**, for the IVA.
@@ -34,7 +29,7 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 * Corvus project on [Curse][12]
 * Original Corvus [Forum Thread][11] by **OrionKermin** - information and download links
 
-[1]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[License]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [2]: http://forum.kerbalspaceprogram.com/index.php?showtopic=55521
 [3]: http://forum.kerbalspaceprogram.com/index.php?showtopic=50533
 [4]: https://forum.kerbalspaceprogram.com/index.php?showtopic=170880
@@ -43,3 +38,12 @@ Extract the contents of this mod in the standard way into the KSP "GameData" fol
 [10]: https://spacedock.info/mod/1405/Corvus%20CF
 [11]: http://forum.kerbalspaceprogram.com/index.php?showtopic=108993
 [12]: https://www.curseforge.com/kerbal/ksp-mods/corvus-cf
+
+[ReleaseShield]: https://img.shields.io/github/v/release/mwerle/Corvus_CF?include_prereleases
+[CKANShield]: https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
+[SourceShield]: https://img.shields.io/badge/source%20code-github-yellowgreen
+[LicenseShield]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey
+
+[GitHub]: https://github.com/mwerle/Corvus_CF/
+[release]: https://github.com/mwerle/Corvus_CF/releases/latest
+[CKAN]: https://github.com/KSP-CKAN/CKAN
