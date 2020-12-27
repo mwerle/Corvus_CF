@@ -1,5 +1,14 @@
 # Corvus - Community Fixes
 
+[![ReleaseShield]][release] [![CKANShield]][CKAN] [![SourceShield]][GitHub] [![LicenseShield]][License]
+
+[ReleaseShield]: https://img.shields.io/github/v/release/mwerle/Corvus_CF?include_prereleases
+[CKANShield]: https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
+[SourceShield]: https://img.shields.io/badge/source%20code-github-yellowgreen
+[LicenseShield]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey
+
+***
+
 This mod consists of the Corvus Command Pod mod for Kerbal Space Program (KSP) with the Community Fixes and Corvus Extras parts integrated.
 
 The Corvus pod was originally created by **OrionKermin**, and is a 2-Kerbal command pod with some associated utility components. As of 2017-04-25 the original mod was re-released under the CC-BY-SA license.
