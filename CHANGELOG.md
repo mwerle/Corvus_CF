@@ -3,6 +3,10 @@
 * v{VERSION}
   * <TODO>
 
+* v1.3.7 2021-07-01
+  * Mark compatible with KSP 1.12.x
+  * Minor tweaks to capsule parameters
+
 * v1.3.6 2020-12-27
   * Add Inventory and Cargo configurations to parts for KSP1.11.
 
