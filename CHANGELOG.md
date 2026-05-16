@@ -2,6 +2,7 @@
 
 * v{VERSION}
   * <TODO>
+  * Add an internal node into the 1.875m adapter
 
 * v1.3.7 2021-07-01
   * Mark compatible with KSP 1.12.x
